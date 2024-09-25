@@ -13,3 +13,6 @@ This is a React-based web application that helps users manage and settle their d
 - **Frontend:** React, HTML, CSS, JavaScript
 - **Algorithms:** Graph and Heap algorithms for debt settlement optimization.
 
+#How to start-
+- 1. Go to the Directory
+- 2. npm run dev 
